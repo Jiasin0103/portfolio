@@ -134,7 +134,7 @@ onUnmounted(() => {
       </nav>
 
       <!-- Hero Content -->
-      <div class="flex min-h-[calc(100vh-100px)] items-center px-8">
+      <div class="flex min-h-[calc(100vh-100px)] items-center px-8 pt-20 md:pt-24">
         <div class="max-w-4xl">
 
           <!-- Internship Status -->
